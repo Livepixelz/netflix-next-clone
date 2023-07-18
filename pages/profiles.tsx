@@ -35,7 +35,7 @@ const Profiles = () => {
               <div className="relative w-44 h-44 rounded-md flex items-center justify-center border-2 border-transparent group-hover:cursor-pointer group-hover:border-white overflow:hidden">
                 <img src="/images/default-blue.png" alt="avatar" />
               </div>
-              <div className="mt-4 text-gray-400 text-2xl text-center group-hover:text-white">Name</div>
+              <div className="mt-4 text-gray-400 text-2xl text-center group-hover:text-white">Evan</div>
             </div>
 
           </div>
