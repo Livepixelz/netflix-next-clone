@@ -32,7 +32,7 @@ const Billboard = () => {
                 <PlayButton movieId={data?.id} />
                 <button
                     onClick={handleOpenModal}
-                    className="
+                            className="
                     bg-white
                     text-white
                     bg-opacity-30 
